@@ -14,6 +14,7 @@
 		84EABD5225AC965B00ECAA15 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84EABD5125AC965B00ECAA15 /* Assets.xcassets */; };
 		84EABD5525AC965B00ECAA15 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84EABD5325AC965B00ECAA15 /* LaunchScreen.storyboard */; };
 		84EABD5E25AC967600ECAA15 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 84EABD5D25AC967600ECAA15 /* .gitignore */; };
+		9551206625AC9EB500CA05B8 /* AnnaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9551206525AC9EB500CA05B8 /* AnnaViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		84EABD5425AC965B00ECAA15 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84EABD5625AC965B00ECAA15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84EABD5D25AC967600ECAA15 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		9551206525AC9EB500CA05B8 /* AnnaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnnaViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				84EABD5125AC965B00ECAA15 /* Assets.xcassets */,
 				84EABD5325AC965B00ECAA15 /* LaunchScreen.storyboard */,
 				84EABD5625AC965B00ECAA15 /* Info.plist */,
+				9551206525AC9EB500CA05B8 /* AnnaViewController.swift */,
 			);
 			path = Vova_and_Anna_project;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9551206625AC9EB500CA05B8 /* AnnaViewController.swift in Sources */,
 				84EABD4D25AC965800ECAA15 /* ViewController.swift in Sources */,
 				84EABD4925AC965800ECAA15 /* AppDelegate.swift in Sources */,
 				84EABD4B25AC965800ECAA15 /* SceneDelegate.swift in Sources */,
